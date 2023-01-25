@@ -133,8 +133,8 @@ const Navbar = () => {
                   <div>
                     <Link
                       to="/"
-                      aria-label="Pro Reader"
-                      title="Pro Reader"
+                      aria-label="Man's Care"
+                      title="Man's Care"
                       className="inline-flex items-center"
                     >
                       <svg
@@ -153,7 +153,7 @@ const Navbar = () => {
                         <rect x="14" y="11" width="7" height="12" />
                       </svg>
                       <span className="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase">
-                        Pro Reader
+                        Man's Care
                       </span>
                     </Link>
                   </div>
@@ -187,12 +187,12 @@ const Navbar = () => {
                     </li>
                     <li>
                       <Link
-                        to="/Books"
-                        aria-label="Books"
-                        title="Books"
+                        to="/shop"
+                        aria-label="shop"
+                        title="shop"
                         className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
                       >
-                        Books
+                        Shop
                       </Link>
                     </li>
                     <li>
