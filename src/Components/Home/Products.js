@@ -144,16 +144,13 @@ const Products = () => {
                 </div>
               </div>
             </div>
-            <div className="ml-96 mt-5">
+            <div className="flex mt-5 m-auto">
               <Link to ='/shop'>
                 <button
                   type="button"
-                  className="relative px-8 py-4 ml-72 overflow-hidden font-semibold rounded bg-gray-100 text-gray-900 "
+                  className="px-8 py-4 font-semibold rounded bg-blue-500 text-white align-center "
                 >
                   See All Products
-                  <span className="absolute top-0 right-0 px-5 py-1 text-xs tracking-wider text-center uppercase whitespace-no-wrap origin-bottom-left transform rotate-45 -translate-y-full translate-x-1/3 bg-violet-400">
-                    New
-                  </span>
                 </button>
               </Link>
             </div>
