@@ -197,6 +197,16 @@ const Navbar = () => {
                     </li>
                     <li>
                       <Link
+                        to="/cart"
+                        aria-label="cart"
+                        title="cart"
+                        className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+                      >
+                        Cart
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
                         to="/about"
                         aria-label="About us"
                         title="About us"
