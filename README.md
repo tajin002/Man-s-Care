@@ -1,5 +1,5 @@
 # School App
-## Visit Live Website: <a href= "https://mans-care.netlify.app/" target="_blank">KHSC</a>
+## Visit Live Website: <a href= "https://mans-care.netlify.app/" target="_blank">Man's Care</a>
 
 #### Frontend
  1.React.js </br>
